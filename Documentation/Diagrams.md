@@ -1,10 +1,5 @@
 # Analog Clock Reader — Software Diagrams
 
-All diagrams below use **Mermaid** syntax. Paste them into any of these tools to render:
-- **[Mermaid Live Editor](https://mermaid.live)** — recommended, instant preview
-- **[Draw.io](https://app.diagrams.net)** — Insert → Advanced → Mermaid
-- **GitHub** — renders natively in `.md` files
-
 ---
 
 ## 1. System Architecture (High-Level)
@@ -575,13 +570,3 @@ flowchart TD
     style DISPLAY fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
 ```
 
----
-
-## How to Use These Diagrams
-
-1. **Copy** the code block content (between the triple backticks after `mermaid`)
-2. **Go to** [mermaid.live](https://mermaid.live)
-3. **Paste** the code in the left editor panel
-4. **Download** the rendered diagram as PNG or SVG from the right panel
-
-> **Tip for presentations:** Export as SVG for crisp scaling at any size. For Word documents, use PNG at 2× resolution.
