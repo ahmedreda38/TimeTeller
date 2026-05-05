@@ -1,0 +1,43 @@
+# ===== Dataset (3.7GB - too large for GitHub) =====
+data/dataset/
+data/
+
+# ===== Trained models & results =====
+results/trained_model.mat
+results/training_log.mat
+results/test_metrics.mat
+results/figures/*.png
+results/figures/*.fig
+
+# ===== HuggingFace cache & tokens =====
+.cache/
+hftoken.txt
+
+# ===== MATLAB generated files =====
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+*.mlappinstall
+*.mltbx
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# ===== OS files =====
+Thumbs.db
+.DS_Store
+Desktop.ini
+*.tmp
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
